@@ -1,0 +1,46 @@
+[
+    {
+        "pid":1,
+        "pname":"KAMILIANT by AMERICAN TOURISTER",
+        "pdescription":"Kamiliant by American Tourister KAM Kiza Polypropylene 55 cms Ash Blue Hardsided Cabin Luggage",
+        "price":1599,
+        "img":"https://m.media-amazon.com/images/I/81JeNOKgvJL._UY879_.jpg"
+    },
+    {
+        "pid":2,
+        "pname":"Samsung Galaxy M33 5G",
+        "pdescription":"(Deep Ocean Blue, 6GB, 128GB Storage) | 6000mAh Battery |",
+        "price":14499,
+        "img":"https://m.media-amazon.com/images/I/81xvGbBFNhL._SX679_.jpg"
+    },
+    {
+        "pid":3,
+        "pname":"Titan smartwatch",
+        "pdescription":"Titan Smart 2 - Touch Screen Watch with Aluminium case",
+        "price":7500,
+        "img":"https://staticimg.titan.co.in/Titan/Catalog/90155AP01_1.jpg?impolicy=pqlow&imwidth=640"
+    },
+    {
+        "pid":4,
+        "pname":"Dell inspiron 16",
+        "pdescription":"3500 Gaming Laptop (10th Gen Intel Core i7-10750H/8 GB RAM/512 GB SSD/4 GB",
+        "price":3500,
+        "img":"https://www.cnet.com/a/img/resize/c5b1d4844faa8d8395c0dc2510d74ec84997b0c8/hub/2022/04/26/0a286fff-7903-48be-b0cb-fa7e29826c53/samsung-galaxy-book-2-pro-360-01.jpg?auto=webp&fit=crop&height=528&width=940"
+    },
+    {
+        "pid":5,
+        "pname":"Titan Watch",
+        "pdescription":"Titan watch for girls",
+        "price":1500,
+        "img":"https://static-01.daraz.com.np/p/483739b555784acbee3874e5d9f8ffb0.jpg"
+    },
+    {
+        "pid":6,
+        "pname":"Sony TV",
+        "pdescription":"Sony Bravia LED TV - 65 inch",
+        "price":35000,
+        "img":"https://th.bing.com/th/id/OIP.z35a_DfUQDnaHz2Nh8y7OgHaHa?pid=ImgDet&rs=1"
+    }
+   
+
+]

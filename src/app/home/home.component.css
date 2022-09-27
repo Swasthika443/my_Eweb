@@ -1,0 +1,11 @@
+img {
+    height:350px; 
+   }
+.card-img-top{
+ height:200px;
+}
+marquee{
+  text-shadow:2px 3px 3px rgba(1, 1, 1, 0.724);
+  color:black;
+  font-size: 28px;
+}

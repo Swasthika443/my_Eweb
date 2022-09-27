@@ -1,0 +1,161 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "pname": "Product:Laptop",
+      "pdescription": "Apple MacBook Air 2020 (M1, 13.3 inch, 8GB, 256GB, macOS Big Sur, Space Grey)",
+      "price": "96899",
+      "img": "https://5.imimg.com/data5/II/OY/MY-6222353/mac-air-apple-laptop-500x500.jpg"
+    },
+    {
+      "id": 2,
+      "pname": "Product:Headphone",
+      "pdescription": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback",
+      "price": "1599",
+      "img": "https://m.media-amazon.com/images/I/61stQYWQO4L._SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "pname": "Product:HRX bagpack",
+      "pdescription": "HRX by Hrithik Roshan Unisex Eco4 Backpack 30 L Backpack",
+      "price": 849,
+      "img": "https://rukminim1.flixcart.com/image/832/832/kekadu80/backpack/e/q/r/unisex-eco4-backpack-11558674-backpack-hrx-by-hrithik-roshan-30-original-imafv7dpzbhy64yn.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "pname": "Product:Roadster",
+      "pdescription": "Men Black & White Checked Pure Cotton Casual Sustainable Shirt",
+      "price": "1000",
+      "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/8889611/2019/3/20/3eae8fb4-b7ca-4e01-80bf-d1e59ab1568d1553080254589-Roadster-Men-Black--White-Regular-Fit-Checked-Casual-Shirt-9-1.jpg"
+    },
+    {
+      "id": 6,
+      "pname": "Product:Voyage Sunglasses",
+      "pdescription": "Unisex Square Sunglasses 58157MG2970",
+      "price": 799,
+      "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/10748540/2022/5/10/09225da5-6c7b-4f2f-accb-88c27091ead71652177572613-Voyage-Unisex-Square-Sunglasses-58157MG2970-8351652177572292-1.jpg"
+    },
+    {
+      "id": 7,
+      "pname": "Puma running shoes",
+      "pdescription": "Liberate Nitro Men's Running Shoes",
+      "price": 10000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0I6QUW4mHyUhf29r0xvcxBMgfezijENCJg&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "pname": "Roadster Cargo pant",
+      "pdescription": "Men Olive Green Cargos",
+      "price": 1599,
+      "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2291317/2018/3/16/11521193384534-Roadster-Men-Olive-Green-Regular-Fit-Solid-Cargos-4441521193384177-1.jpg"
+    },
+    {
+      "id": 9,
+      "pname": "Product:Watch",
+      "pdescription": "Titan black classic",
+      "price": 1000,
+      "img": "https://ae01.alicdn.com/kf/H77cdd4f1b4d44afcb3b07b975066f3bdy/2022-Minimalist-Men-s-Fashion-Ultra-Thin-Watches-Simple-Men-Business-Stainless-Steel-Mesh-Belt-Quartz.jpg_Q90.jpg_.webp"
+    },
+    {
+      "id": 10,
+      "pname": "Croma",
+      "pdescription": "Croma - Double Door Convertible",
+      "price": 25999,
+      "img": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1661170201/Croma%20Assets/Large%20Appliances/Refrigerator/Images/252133_uidwiu.png/mxw_2048,f_auto"
+    },
+    {
+      "id": 11,
+      "pname": "Bosch",
+      "pdescription": "Bosch - 32litres - Triple Door",
+      "price": 43490,
+      "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTg01f1ZxiVCl5P-pvUiZFudHHGzqthqP03JaA3iC5p-YIjms0-88OSFqpNlbB9EloA3GJAJ_0FVGLWZDbZbaB4pXra30Z0ya675xlntrHKA03l8yMgdXljaQ&usqp=CAE"
+    },
+    {
+      "id": 12,
+      "pname": "Samsung",
+      "pdescription": "Samsung - Top Loading",
+      "price": 10000,
+      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfIENDuauv7ZFXGNRSQuVdIdyef-AJQ-tHSP4P5ahKNe7_eDc7WXcITgD0kXRnlbdHpBFSnKfeETvTuKUzMCURW_Ln2WvoUnPXoqw70I8&usqp=CAE"
+    },
+    {
+      "id": 13,
+      "pname": "LG",
+      "pdescription": "LG - Automatic",
+      "price": 18990,
+      "img": "https://mlvtgiqzoszz.i.optimole.com/Sb3K8mU-Band6g6L/w:auto/h:auto/q:90/https://www.appliancecity.co.uk/wp-content/uploads/2017/09/LG-fh495bdn8-washer-1.jpg"
+    },
+    {
+      "id": 14,
+      "pname": "Whirpool",
+      "pdescription": "Whirlpool - Front Loading",
+      "price": 21990,
+      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTIKMRFlDJFioKRat9eSA5eEIp7FvngMnBV-Z6HB1857eYB-bIGnI8B1nOwh_K_eukiSTi83Y4j-6CrGrg1E3_OFs3PR76xkQnM1YiDOfZE2LBrn1W-w-Ih&usqp=CAE"
+    },
+    {
+      "id": 15,
+      "pname": "samsung",
+      "pdescription": "galaxy m31",
+      "price": "15600",
+      "img": null
+    },
+    {
+      "id": 16,
+      "pname": "Asus",
+      "pdescription": "zenfone max pro m1",
+      "price": "10000",
+      "img": null
+    },
+    {
+      "id": 17,
+      "pname": "highlander shirts",
+      "pdescription": "Mens casual shirts",
+      "price": "1199",
+      "img": null
+    },
+    {
+      "id": 18,
+      "pname": "Samsung",
+      "pdescription": "galaxy m31",
+      "price": "14488",
+      "img": null
+    }
+  ],
+  "users": [
+    {
+      "username": "john@gmail.com",
+      "useremail": "pallavikatari@gmail.com",
+      "password": "John@123",
+      "mobile": "",
+      "id": 1
+    },
+    {
+      "username": "Admin",
+      "useremail": "admin@gmail.com",
+      "password": "admin@123",
+      "mobile": "9898989898",
+      "id": 2
+    },
+    {
+      "username": "evryindia",
+      "useremail": "evryindia@gmail.com",
+      "password": "evryindia",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "username": "Swasthik",
+      "useremail": "swasthik@gmail.com",
+      "password": "swasthik",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "username": "swasthik",
+      "useremail": "swasthika@gmail.com",
+      "password": "",
+      "mobile": "",
+      "id": 5
+    }
+  ],
+  "cart": []
+}

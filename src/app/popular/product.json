@@ -1,0 +1,75 @@
+[
+    {
+      "pid":1,
+      "pname":"Product:Laptop",
+      "pdescription":"Apple MacBook Air 2020 (M1, 13.3 inch, 8GB, 256GB, macOS Big Sur, Space Grey)",
+      "price":96000,
+      "Status":"In Stock",
+      "img":"https://5.imimg.com/data5/II/OY/MY-6222353/mac-air-apple-laptop-500x500.jpg"
+  },
+  {
+    "pid":2,
+    "pname":"Product:Headphone",
+    "pdescription":"boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback",
+    "price":1299,
+    "Status":"Out of Stock",
+    "img":"https://m.media-amazon.com/images/I/61stQYWQO4L._SL1500_.jpg"
+},
+{
+  "pid":3,
+  "pname":"Product:Oneplus 10T 5G",
+  "pdescription":"OnePlus 10T 5G (Jade Green, 8GB RAM, 128GB Storage)",
+  "price":49000,
+  "Status":"In Stock",
+  "img":"https://telecomtalk.info/wp-content/uploads/2022/07/oneplus-10t-5g-launch-date-in-india.webp"
+},
+  {
+      "pid":4,
+      "pname":"Product:HRX bagpack",
+      "pdescription":"HRX by Hrithik Roshan Unisex Eco4 Backpack 30 L Backpack",
+      "price":849,
+      "Status":"Out of Stock",
+      "img":"https://rukminim1.flixcart.com/image/832/832/kekadu80/backpack/e/q/r/unisex-eco4-backpack-11558674-backpack-hrx-by-hrithik-roshan-30-original-imafv7dpzbhy64yn.jpeg?q=70"
+  },
+  {
+      "pid":5,
+      "pname":"Product:Roadster",
+      "pdescription":"Men Black & White Checked Pure Cotton Casual Sustainable Shirt",
+      "price":674,
+      "Status":"In Stock",
+      "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/8889611/2019/3/20/3eae8fb4-b7ca-4e01-80bf-d1e59ab1568d1553080254589-Roadster-Men-Black--White-Regular-Fit-Checked-Casual-Shirt-9-1.jpg"
+  },
+  {
+      "pid":6,
+      "pname":"Product:Voyage Sunglasses",
+      "pdescription":"Unisex Square Sunglasses 58157MG2970",
+      "price":799,
+      "Status":"Out of Stock",
+      "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/10748540/2022/5/10/09225da5-6c7b-4f2f-accb-88c27091ead71652177572613-Voyage-Unisex-Square-Sunglasses-58157MG2970-8351652177572292-1.jpg"
+  },
+  {
+      "pid":7,
+      "pname":"Puma running shoes",
+      "pdescription":"Liberate Nitro Men's Running Shoes",
+      "price":10000,
+      "Status":"In Stock",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0I6QUW4mHyUhf29r0xvcxBMgfezijENCJg&usqp=CAU"
+  },
+  {
+      "pid":8,
+      "pname":"Roadster Cargo pant",
+      "pdescription":"Men Olive Green Cargos",
+      "price":1599,
+      "Status":"Out of Stock",
+      "img":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2291317/2018/3/16/11521193384534-Roadster-Men-Olive-Green-Regular-Fit-Solid-Cargos-4441521193384177-1.jpg"
+  },
+  {
+      "pid":9,
+      "pname":"Product:Watch",
+      "pdescription":"Titan black classic",
+      "price":1000,
+      "Status":"In Stock",
+      "img":"https://ae01.alicdn.com/kf/H77cdd4f1b4d44afcb3b07b975066f3bdy/2022-Minimalist-Men-s-Fashion-Ultra-Thin-Watches-Simple-Men-Business-Stainless-Steel-Mesh-Belt-Quartz.jpg_Q90.jpg_.webp"
+  }
+ 
+]
